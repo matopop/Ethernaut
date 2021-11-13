@@ -1,5 +1,5 @@
 /*
-Pour valider ce niveau, il faut arriver à obtenir 10 victoires consécutives (consecutivesWins doit être égal à 10).
+Pour valider ce niveau, il faut arriver à obtenir 10 victoires consécutives (consecutivesWins doit être supérieur ou égal à 10).
 */
 
 
